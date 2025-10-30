@@ -3,7 +3,7 @@
   "description": "Bot Discord completo com sistema de loja, economia e administração",
   "version": "1.0.0",
   "main": "bot.js",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=16.11.0"
   },

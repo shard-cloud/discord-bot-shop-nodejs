@@ -1,0 +1,15 @@
+{
+  "title": "ShardCloud Template — Discord Shop Bot",
+  "ref": "main",
+  "items": [
+    { "file": "README.md", "label": "Visão Geral" },
+    { "file": "01-introducao.md", "label": "Introdução" },
+    { "file": "02-configuracao.md", "label": "Configuração" },
+    { "file": "03-sistema-loja.md", "label": "Sistema de Loja" },
+    { "file": "04-sistema-economia.md", "label": "Sistema de Economia" },
+    { "file": "05-comandos-admin.md", "label": "Comandos Administrativos" },
+    { "file": "06-comandos-utility.md", "label": "Comandos de Utilidade" },
+    { "file": "07-sistema-logs.md", "label": "Sistema de Logs" },
+    { "file": "08-deploy.md", "label": "Deploy" }
+  ]
+}

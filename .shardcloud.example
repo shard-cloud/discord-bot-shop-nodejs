@@ -1,0 +1,5 @@
+DISPLAY_NAME=Discord Shop Bot
+MAIN=bot.js
+MEMORY=512
+VERSION=recommended
+DESCRIPTION=Bot Discord completo com sistema de loja virtual, economia de moedas e administração avançada

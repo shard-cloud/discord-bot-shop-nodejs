@@ -1,6 +1,7 @@
 {
-  "name": "discord-js-bot",
-  "version": "5.2.0",
+  "name": "discord-bot-shop-nodejs",
+  "description": "Bot Discord completo com sistema de loja, economia e administração",
+  "version": "1.0.0",
   "main": "bot.js",
   "license": "ISC",
   "engines": {

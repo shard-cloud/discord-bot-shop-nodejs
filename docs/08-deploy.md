@@ -1,5 +1,3 @@
-# Deploy em Produção
-
 ## 🚀 Visão Geral
 
 Este guia abrange o processo completo de deploy do Discord Shop Bot em produção, incluindo deploy na ShardCloud, configuração de servidor próprio, otimizações de performance, monitoramento e manutenção contínua.

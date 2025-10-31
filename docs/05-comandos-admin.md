@@ -1,5 +1,3 @@
-# Comandos Administrativos
-
 ## ⚙️ Visão Geral
 
 Os comandos administrativos são ferramentas poderosas que permitem aos administradores do servidor gerenciar completamente o bot, configurar funcionalidades, administrar usuários e monitorar atividades. Estes comandos requerem permissões especiais e são essenciais para o funcionamento adequado do bot.

@@ -1,5 +1,3 @@
-# Sistema de Economia Virtual
-
 ## 💰 Visão Geral
 
 O sistema de economia virtual é o motor que impulsiona o engajamento no servidor. Ele oferece um sistema completo de moedas virtuais, níveis de experiência, recompensas diárias e rankings competitivos que mantêm os usuários ativos e engajados.

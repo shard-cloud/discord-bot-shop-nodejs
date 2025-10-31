@@ -1,5 +1,3 @@
-# Comandos de Utilidade
-
 ## 🛠️ Visão Geral
 
 Os comandos de utilidade são ferramentas essenciais que todos os usuários podem usar para interagir com o bot, obter informações, navegar pela loja e gerenciar suas contas. Estes comandos formam a base da experiência do usuário e são fundamentais para o funcionamento do sistema.

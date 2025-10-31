@@ -1,5 +1,3 @@
-# Sistema de Logs e Monitoramento
-
 ## 📊 Visão Geral
 
 O sistema de logs é uma funcionalidade essencial que permite monitorar todas as atividades do bot, desde transações da loja até comandos administrativos. Ele oferece transparência total, auditoria completa e ferramentas de diagnóstico para manter o servidor funcionando perfeitamente.

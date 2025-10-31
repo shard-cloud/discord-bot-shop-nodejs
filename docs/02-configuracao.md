@@ -1,5 +1,3 @@
-# Configuração do Discord Shop Bot
-
 ## 🚀 Configuração Inicial
 
 ### Pré-requisitos

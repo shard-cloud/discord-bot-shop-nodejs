@@ -1,5 +1,3 @@
-# Sistema de Loja Virtual
-
 ## 🛒 Visão Geral
 
 O sistema de loja virtual é o coração do bot, permitindo que administradores criem e gerenciem produtos digitais que os usuários podem comprar com moedas virtuais. O sistema oferece uma experiência completa de e-commerce dentro do Discord.

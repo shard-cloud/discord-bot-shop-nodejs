@@ -1,6 +1,6 @@
-## 🤖 O que é este Bot?
+## 📖 O que é este template?
 
-O **Discord Shop Bot** é um bot Discord completo desenvolvido em Node.js que oferece um sistema robusto de loja virtual, economia de moedas e administração para servidores Discord. Ele foi projetado para criar engajamento e interatividade em comunidades através de sistemas gamificados.
+O **Discord Shop Bot** é um bot completo desenvolvido em Node.js que oferece um sistema robusto de loja virtual, economia de moedas e administração para servidores Discord. Ele foi projetado para criar engajamento e interatividade em comunidades através de sistemas gamificados.
 
 ## 🎯 Principais Características
 

@@ -1,7 +1,7 @@
 const { COLORS } = require("@src/data.json");
 const { readdirSync, lstatSync } = require("fs");
 const { join, extname } = require("path");
-const permissions = require("./permissions");
+const permissions = require("./Permissions");
 
 module.exports = class Utils {
   /**

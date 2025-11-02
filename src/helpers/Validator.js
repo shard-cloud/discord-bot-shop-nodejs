@@ -1,5 +1,5 @@
 const CommandCategory = require("@structures/CommandCategory");
-const permissions = require("./permissions");
+const permissions = require("./Permissions");
 const config = require("@root/config");
 const { log, warn, error } = require("./Logger");
 const { ApplicationCommandType } = require("discord.js");
